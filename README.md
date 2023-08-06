@@ -1,16 +1,9 @@
-# budget_tracker_2
+# Budget Tracker
 
-A new Flutter project.
+Features in my app:
+1) Expenses are divided into categories such as 'Income', 'Expenses', 'Gift/Received MOney', 'Other'.
+2) Users can also edit the price, date, notes for an already existing expense.
+3) View Expenses History - Button which on clicking navigates to history page, which contains all expenses based on their date of expenses.
+4) View Expenses Notes - Button which on clicking navigates to notes page, which contains extra information related to expenses, which users can give during addition of that expense.
+5) View Bar chart - Button which on clicking navigates to bar chart page, which contains bar graphs of all expenses, based on their percentages.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
